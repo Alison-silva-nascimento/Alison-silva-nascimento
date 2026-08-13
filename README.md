@@ -1,6 +1,6 @@
 # Alison Silva
 
-**Desenvolvedor de Software**
+**Analista de Sistemas // Estudante de Desenvolvimento de softwares**
 
 Python • C#/.NET • Automação • Dados
 
